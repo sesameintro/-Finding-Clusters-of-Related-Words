@@ -1,3 +1,4 @@
 # Finding-Clusters-of-Related-Words
-Cluster Analysis and Unsupervised Machine learning in Python
-
+The topic is about Cluster Analysis and Unsupervised Machine learning in Python
+WordsClassification.ipynb is the final application of improved K-means on NLP words classification.
+You can find the fully explanation in the Explanation.ppt
